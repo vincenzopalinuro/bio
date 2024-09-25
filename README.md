@@ -1,1 +1,1 @@
-A repository to trade in a Global Macro HF
+Coding @ Palinuro Capital
