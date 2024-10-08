@@ -1,2 +1,2 @@
-Coding @ Palinuro Capital\n
+Coding @ Palinuro Capital\\
 for info: https://palinurocapital.com/
