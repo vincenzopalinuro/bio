@@ -1,2 +1,3 @@
-Coding @ Palinuro Capital\\
-for info: https://palinurocapital.com/
+Coding @ Palinuro Capital  
+
+More info at: https://palinurocapital.com/
